@@ -1,0 +1,83 @@
+
+#color{
+border: 1px solid black;
+color: white;
+width: 100%;
+height: auto;
+background-color: #000080 ;	
+
+
+font-family: Arial;	
+position: relative;
+line-height: pt;
+}
+
+
+
+#vintevinte{
+border: 5px solid black;
+color: white;
+width: 100%;
+height: auto;
+background-color: #0000CD ;	
+
+
+font-family: callibri;	
+position: fixed;
+line-height: pt;
+}
+
+
+
+#tendencias{
+border: 3px solid black;
+color: white;
+width: 100%;
+height: auto;
+background-color: #1E90FF ;	
+
+
+font-family: callibri;	
+line-height: pt;
+}
+
+
+#dicas{
+border: 3px solid black;
+color: white;
+width: 100%;
+height: auto;
+background-color: #87CEFA ;	
+
+
+font-family: callibri;	
+line-height: pt;
+}
+
+
+#{
+border: 3px solid black;
+color: white;
+width: 100%;
+height: auto;
+background-color:  #87CEEB;	
+
+
+font-family: callibri;	
+line-height: pt;
+}
+
+
+
+
+#table{
+border: 3px solid black;
+color: black;
+width: 100%;
+height: auto;
+background-color: #1E90FF ;	
+
+
+font-family: callibri;	
+line-height: pt;
+}

@@ -1,0 +1,70 @@
+
+h1,h2 {
+color:green; 
+font-family:Arial;
+font-size:45px;
+}
+
+p{
+	font-family: Constantia;
+	font-size:35px;
+}
+
+
+#cozinha{
+	color:orange; 
+	font-size:35px;
+	font-family: Constantia;
+}
+
+
+p#banho{
+color: orange;
+font-size:35px;
+font-family: Constantia;
+}
+
+
+#Roupeiros{
+color: orange;
+font-size: 35px;
+font-family: Constantia;
+}
+
+.Dressings{
+font-size: 35px;
+color: orange;
+font-family: Constantia;
+}
+
+
+p.interiores{
+color: orange;
+font-size:35px;
+font-family: Constantia;
+}
+
+
+.exteriores{
+color: orange;
+font-size: 35px;
+font-family: Constantia;
+}
+
+
+
+.medida{
+color: orange;
+font-size:35 px;
+font-family: Constantia;
+}
+
+
+
+.sala{
+color: orange;
+font-size:35 px;
+font-family: Constantia;
+}
+
+/**/

@@ -1,0 +1,57 @@
+
+#nav{
+border: 2px solid black;
+height: 0px auto;
+width: 0px auto ;
+background-color: #90EE90;
+margin: 0px auto;
+font-weight: bold;
+}
+
+
+
+#realizamos{
+border: 0px solid black;
+height: 0px auto;
+width: 0px auto ;
+background-color: 	#9ACD32;
+margin: 0px auto;
+font-weight: bold;
+}
+
+
+
+#segredo{
+border: 2px solid black;
+height: 0px auto;
+width: 0px auto ;
+background-color: 	#ADFF2F;
+margin: 0px auto;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+#sonhos{
+
+width: 70px;
+display: inline;
+padding: 10px;
+position: relative;	
+color: #006400;
+
+}
+
+
+
+#footer{
+border: 5px solid black;
+height: 0px auto;
+width: 0px auto;
+margin: 0px auto;
+}

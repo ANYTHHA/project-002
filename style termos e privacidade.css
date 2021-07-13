@@ -1,0 +1,45 @@
+body{
+background-color: #8FBC8F;	
+}
+
+
+#container{
+border: 6px solid black;
+height: auto;
+width: 1200px;
+position: relative;
+margin: 0px auto;
+}
+
+#Intro{
+font-family: Arial;
+border: 17px solid #228B22;
+color: #006400;
+width: 100%;
+height: auto;	
+background-color: #33FF99;
+color: #003366;
+padding: 30px 20px 20px 10px;
+}
+
+
+#Overview{
+font-family: Time New Roman;
+border: 5px solid black;
+color: #006400;
+width: 100%;
+height: auto;
+background-color:#98FB98 ;
+text-align: center;
+}
+
+
+#Motivation{
+border: 7px solid black;
+color: #006400;
+width: 100%;
+height: auto;	
+background-color: #90EE90;
+text-align: left;
+}
+
